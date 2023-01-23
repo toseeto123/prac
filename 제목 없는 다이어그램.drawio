@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-23T17:23:36.268Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="fADae5lSC14IZ1poNZod" version="20.8.10" type="github" pages="15">
+<mxfile host="app.diagrams.net" modified="2023-01-23T17:24:29.544Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="-WRIyLFTrbhklblIH5Mi" version="20.8.10" type="github" pages="16">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="DBSQL 정리">
     <mxGraphModel dx="974" dy="942" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -4190,6 +4190,17 @@
         </mxCell>
         <mxCell id="o_325DB_2lPhgFgEcaS2-40" value="DATE는 UTIL에 있는 패키지를 import 하는데 이것은 DB와 차이가 나게되고 차이가 오류로 처리하기떄문에 DB랑 연동을 하게될떄는 DATE클래스는 SQL 패키지에서 import해야한다.&lt;br&gt;&lt;br&gt;&lt;font color=&quot;#ff2424&quot;&gt;UTIL에서 DATE 패키지를 가져오는것은 아니다.&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontColor=#331804;" vertex="1" parent="1">
           <mxGeometry x="260" y="650" width="490" height="70" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="MqtX7DzBV2gJvwR5CCpP" name="ORACLE(SQL)">
+    <mxGraphModel dx="974" dy="942" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="nl8jpDTK9z9cZzUZ78-9-1" value="ORACLE&lt;br&gt;DB 사용 정리" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fontColor=#009900;strokeColor=#1A1A1A;" vertex="1" parent="1">
+          <mxGeometry x="30" y="30" width="100" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
